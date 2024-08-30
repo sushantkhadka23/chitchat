@@ -40,3 +40,7 @@ app.*.map.json
 /android/app/release
 .metadata
 .env
+
+# Ignore Firebase configuration files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
